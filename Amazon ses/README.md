@@ -1,0 +1,4 @@
+#Envio de correos con Amazon ses
+Este repositorio tiene como proyecto enviar un correo por medio de amazon ses, Amazon ses fue hecho principalmente para enviar correos de forma masiva de productos de sus clientes o productos propios, 
+ahora es un servicio que ofrecen para enviar correos de forma masiva, al entrar amazon ses vera que puede agregar correos
+fdsafadas
